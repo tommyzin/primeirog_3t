@@ -1,3 +1,6 @@
-# primeirog_3t
-Aluna: Gabriela Tomazi Santos
-Número: 40 
+# Terceiro Trimestre 
+
+## Identificação 
+Gabriela Tomazi - Nr: 40
+
+## Conteudo - HTML - CSS - JavaScript 
