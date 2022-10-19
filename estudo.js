@@ -1,3 +1,4 @@
+
 function total(){
     let c = document.getElementById("valor").value;
     let j = document.getElementById("juros").value;
@@ -48,4 +49,6 @@ function total(){
           document.getElementById("resultado").innerHTML =r;
           }
     
+  
+  
   
