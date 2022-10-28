@@ -1,0 +1,33 @@
+.calc {
+    background: rgb(112, 114, 236);
+    color: rgb(255, 255, 255);
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.calc input {
+    background: crimson;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 5px;
+}
+#spTotal {
+    background: rgb(139, 11, 37);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.calc button {
+    background: tomato;
+    color: rgb(19, 14, 19);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.calc button:hover {
+    background: rgb(145, 48, 31);
+    color: rgb(19, 14, 19);
+    cursor: pointer;
+}
